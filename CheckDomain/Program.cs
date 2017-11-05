@@ -9,10 +9,22 @@ namespace CheckDomain
 {
     class Program
     {
+        static  CheckDomain d;
         static void Main(string[] args)
         {
-            CheckDomain d = new CheckDomain("pi.a.no.s.verg.ie@gmail.com", "375trance");
-            Thread.Sleep(2000);
+            while(true)
+            {
+                Console.WriteLine("email:password");
+                string [] email = Console.ReadLine().Split(':');
+                d = new CheckDomain(email[0].Trim(), email[1].Trim());
+                Console.WriteLine("start ,y/n");
+                string result =  Console.ReadLine();
+                if (result.Trim().ToLower() == "y")
+                    break;
+            }
+
+
+  
            
             var domains = new ReadDomain().GetDomain();
 

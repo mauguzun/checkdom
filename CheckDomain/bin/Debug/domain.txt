@@ -1,6 +1,3 @@
-http://bils.cf
-http://teika.link
-http://brasa.link
 http://ilovelove.ml
 http://ilovelove.ga
 http://ilovelove.cf
@@ -12,6 +9,7 @@ http://mashino.ml
 http://kils.ml
 http://bils.ml
 http://bils.ga
+http://bils.cf
 http://bils.gq
 http://dils.ml
 http://dils.ga
@@ -281,3 +279,7 @@ http://kengarax.link
 http://plavnieki.link
 http://mangali.link
 http://centrs.link
+http://teika.link
+http://brasa.link
+http://capooling.top
+http://olabola.gq

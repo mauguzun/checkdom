@@ -5,3 +5,4 @@ c:\users\maugu\documents\visual studio 2017\Projects\CheckDomain\CheckDomain\bin
 c:\users\maugu\documents\visual studio 2017\Projects\CheckDomain\CheckDomain\bin\Debug\WebDriver.xml
 c:\users\maugu\documents\visual studio 2017\Projects\CheckDomain\CheckDomain\obj\Debug\CheckDomain.exe
 c:\users\maugu\documents\visual studio 2017\Projects\CheckDomain\CheckDomain\obj\Debug\CheckDomain.pdb
+C:\Users\maugu\Documents\Visual Studio 2017\Projects\CheckDomain\CheckDomain\obj\Debug\CheckDomain.csprojResolveAssemblyReference.cache
